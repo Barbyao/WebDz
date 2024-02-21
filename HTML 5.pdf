@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Сторінка для скачування PDF-файла">
+    <title>Скачати PDF</title>
+</head>
+<body>
+
+    <h2>Скачати PDF-файл</h2>
+
+    <!-- Посилання для скачування PDF-файла -->
+    <a href="C:\Users\Varva\OneDrive\Робочий стіл\WebDz\HTML 5.pdf" download>Скачати PDF</a>
+
+</body>
+</html>
